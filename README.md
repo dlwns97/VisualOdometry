@@ -24,12 +24,10 @@
 6. **DIY_WARPING**: 이미지, 파노라마 틀 크기 및 Homography 행렬을 입력으로 받아 이미지를 틀에 합칩니다.
 
 ## Experiment
-실험 결과:
-### 첫 번째 실험에서 사용한 두 이미지
+실험 결과
+## 첫 번째 실험에서 사용한 두 이미지
 ![Two input images](1_input.png)
-- ORB 키포인트 매칭 결과:
-![ORB Keypoint Matching](그림 8의 이미지 링크)
-- RANSAC 및 Homography 결과:
-![RANSAC Keypoint Matching](그림 9의 이미지 링크)
-- 최종 파노라마 이미지:
-![Final Panorama](그림 11의 이미지 링크)
+## ORB 키포인트 매칭 비교 결과:
+![ORB Keypoint Matching](1_matching_compare.png)
+## 최종 파노라마 이미지:
+![Final Panorama](1_30000_5_panorama.png)
