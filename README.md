@@ -27,7 +27,7 @@
 실험 결과
 ## 첫 번째 실험에서 사용한 두 이미지
 ![Two input images](1_input.png)
-## ORB 키포인트 매칭 비교 결과:
+## ORB 키포인트 매칭 비교 결과
 ![ORB Keypoint Matching](1_matching_compare.png)
-## 최종 파노라마 이미지:
+## 최종 파노라마 이미지
 ![Final Panorama](1_30000_5_panorama.png)
