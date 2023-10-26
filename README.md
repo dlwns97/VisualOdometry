@@ -25,7 +25,8 @@
 
 ### Experiment
 실험 결과:
-- 첫 번째 실험에서 사용한 두 이미지: ![Two input images](1_input.png)
+- 첫 번째 실험에서 사용한 두 이미지:
+ ![Two input images](1_input.png)
 - ORB 키포인트 매칭 결과:
 ![ORB Keypoint Matching](그림 8의 이미지 링크)
 - RANSAC 및 Homography 결과:
